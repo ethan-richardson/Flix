@@ -15,6 +15,7 @@
 		26D8E04626E5669F0035B10D /* flixTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D8E04526E5669F0035B10D /* flixTests.swift */; };
 		26D8E05126E5669F0035B10D /* flixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D8E05026E5669F0035B10D /* flixUITests.swift */; };
 		26D8E05F26E568130035B10D /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D8E05E26E568130035B10D /* MoviesViewController.swift */; };
+		26D8E06126E5929F0035B10D /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D8E06026E5929F0035B10D /* MovieCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		26D8E05026E5669F0035B10D /* flixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixUITests.swift; sourceTree = "<group>"; };
 		26D8E05226E5669F0035B10D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26D8E05E26E568130035B10D /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
+		26D8E06026E5929F0035B10D /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				26D8E03926E5669F0035B10D /* LaunchScreen.storyboard */,
 				26D8E03C26E5669F0035B10D /* Info.plist */,
 				26D8E05E26E568130035B10D /* MoviesViewController.swift */,
+				26D8E06026E5929F0035B10D /* MovieCell.swift */,
 			);
 			path = flix;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				26D8E02F26E5669D0035B10D /* AppDelegate.swift in Sources */,
 				26D8E03126E5669D0035B10D /* SceneDelegate.swift in Sources */,
+				26D8E06126E5929F0035B10D /* MovieCell.swift in Sources */,
 				26D8E05F26E568130035B10D /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
